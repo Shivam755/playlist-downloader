@@ -1,0 +1,15 @@
+{
+  "playlists": [
+    {
+      "name": "Classics",
+      "items": [
+        {
+          "track": {
+            "trackName": "Never Gonna Give You Up",
+            "artistName": "Rick Astley"
+          }
+        }
+      ]
+    }
+  ]
+}
